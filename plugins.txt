@@ -1,0 +1,137 @@
+Trilead API Plugin (trilead-api): latest
+Folders Plugin (cloudbees-folder): latest
+Oracle Java SE Development Kit Installer Plugin (jdk-tool): latest
+Script Security Plugin (script-security): latest
+Command Agent Launcher Plugin (command-launcher): latest
+OWASP Markup Formatter Plugin (antisamy-markup-formatter): latest
+Structs Plugin (structs): latest
+Pipeline: Step API (workflow-step-api): latest
+Token Macro Plugin (token-macro): latest
+bouncycastle API Plugin (bouncycastle-api): latest
+Build Timeout (build-timeout): latest
+Credentials Plugin (credentials): latest
+Plain Credentials Plugin (plain-credentials): latest
+SSH Credentials Plugin (ssh-credentials): latest
+Credentials Binding Plugin (credentials-binding): latest
+SCM API Plugin (scm-api): latest
+Pipeline: API (workflow-api): latest
+Timestamper (timestamper): latest
+Pipeline: Supporting APIs (workflow-support): latest
+Durable Task Plugin (durable-task): latest
+Pipeline: Nodes and Processes (workflow-durable-task-step): latest
+JUnit Plugin (junit): latest
+Matrix Project Plugin (matrix-project): latest
+Resource Disposer Plugin (resource-disposer): latest
+Workspace Cleanup Plugin (ws-cleanup): latest
+Pipeline: Milestone Step (pipeline-milestone-step): latest
+JavaScript GUI Lib: jQuery bundles (jQuery and jQuery UI) plugin (jquery-detached): latest
+Jackson 2 API Plugin (jackson2-api): latest
+JavaScript GUI Lib: ACE Editor bundle plugin (ace-editor): latest
+Pipeline: SCM Step (workflow-scm-step): latest
+Pipeline: Groovy (workflow-cps): latest
+Pipeline: Input Step (pipeline-input-step): latest
+Pipeline: Stage Step (pipeline-stage-step): latest
+Pipeline: Job (workflow-job): latest
+Pipeline Graph Analysis Plugin (pipeline-graph-analysis): latest
+Pipeline: REST API Plugin (pipeline-rest-api): latest
+JavaScript GUI Lib: Handlebars bundle plugin (handlebars): latest
+JavaScript GUI Lib: Moment.js bundle plugin (momentjs): latest
+Pipeline: Stage View Plugin (pipeline-stage-view): latest
+Pipeline: Build Step (pipeline-build-step): latest
+Pipeline: Model API (pipeline-model-api): latest
+Pipeline: Declarative Extension Points API (pipeline-model-extensions): latest
+Apache HttpComponents Client 4.x API Plugin (apache-httpcomponents-client-4-api): latest
+JSch dependency plugin (jsch): latest
+Git client plugin (git-client): latest
+GIT server Plugin (git-server): latest
+Pipeline: Shared Groovy Libraries (workflow-cps-global-lib): latest
+Display URL API (display-url-api): latest
+Mailer Plugin (mailer): latest
+Branch API Plugin (branch-api): latest
+Pipeline: Multibranch (workflow-multibranch): latest
+Authentication Tokens API Plugin (authentication-tokens): latest
+Docker Commons Plugin (docker-commons): latest
+Pipeline: Basic Steps (workflow-basic-steps): latest
+Docker Pipeline (docker-workflow): latest
+Pipeline: Stage Tags Metadata (pipeline-stage-tags-metadata): latest
+Pipeline: Declarative Agent API (pipeline-model-declarative-agent): latest
+Pipeline: Declarative (pipeline-model-definition): latest
+Lockable Resources plugin (lockable-resources): latest
+Pipeline (workflow-aggregator): latest
+GitHub API Plugin (github-api): latest
+Git plugin (git): latest
+GitHub plugin (github): latest
+GitHub Branch Source Plugin (github-branch-source): latest
+Pipeline: GitHub Groovy Libraries (pipeline-github-lib): latest
+SSH Slaves plugin (ssh-slaves): latest
+Matrix Authorization Strategy Plugin (matrix-auth): latest
+PAM Authentication plugin (pam-auth): latest
+LDAP Plugin (ldap): latestTrilead API Plugin (trilead-api): latest
+Folders Plugin (cloudbees-folder): latest
+Oracle Java SE Development Kit Installer Plugin (jdk-tool): latest
+Script Security Plugin (script-security): latest
+Command Agent Launcher Plugin (command-launcher): latest
+OWASP Markup Formatter Plugin (antisamy-markup-formatter): latest
+Structs Plugin (structs): latest
+Pipeline: Step API (workflow-step-api): latest
+Token Macro Plugin (token-macro): latest
+bouncycastle API Plugin (bouncycastle-api): latest
+Build Timeout (build-timeout): latest
+Credentials Plugin (credentials): latest
+Plain Credentials Plugin (plain-credentials): latest
+SSH Credentials Plugin (ssh-credentials): latest
+Credentials Binding Plugin (credentials-binding): latest
+SCM API Plugin (scm-api): latest
+Pipeline: API (workflow-api): latest
+Timestamper (timestamper): latest
+Pipeline: Supporting APIs (workflow-support): latest
+Durable Task Plugin (durable-task): latest
+Pipeline: Nodes and Processes (workflow-durable-task-step): latest
+JUnit Plugin (junit): latest
+Matrix Project Plugin (matrix-project): latest
+Resource Disposer Plugin (resource-disposer): latest
+Workspace Cleanup Plugin (ws-cleanup): latest
+Pipeline: Milestone Step (pipeline-milestone-step): latest
+JavaScript GUI Lib: jQuery bundles (jQuery and jQuery UI) plugin (jquery-detached): latest
+Jackson 2 API Plugin (jackson2-api): latest
+JavaScript GUI Lib: ACE Editor bundle plugin (ace-editor): latest
+Pipeline: SCM Step (workflow-scm-step): latest
+Pipeline: Groovy (workflow-cps): latest
+Pipeline: Input Step (pipeline-input-step): latest
+Pipeline: Stage Step (pipeline-stage-step): latest
+Pipeline: Job (workflow-job): latest
+Pipeline Graph Analysis Plugin (pipeline-graph-analysis): latest
+Pipeline: REST API Plugin (pipeline-rest-api): latest
+JavaScript GUI Lib: Handlebars bundle plugin (handlebars): latest
+JavaScript GUI Lib: Moment.js bundle plugin (momentjs): latest
+Pipeline: Stage View Plugin (pipeline-stage-view): latest
+Pipeline: Build Step (pipeline-build-step): latest
+Pipeline: Model API (pipeline-model-api): latest
+Pipeline: Declarative Extension Points API (pipeline-model-extensions): latest
+Apache HttpComponents Client 4.x API Plugin (apache-httpcomponents-client-4-api): latest
+JSch dependency plugin (jsch): latest
+Git client plugin (git-client): latest
+GIT server Plugin (git-server): latest
+Pipeline: Shared Groovy Libraries (workflow-cps-global-lib): latest
+Display URL API (display-url-api): latest
+Mailer Plugin (mailer): latest
+Branch API Plugin (branch-api): latest
+Pipeline: Multibranch (workflow-multibranch): latest
+Authentication Tokens API Plugin (authentication-tokens): latest
+Docker Commons Plugin (docker-commons): latest
+Pipeline: Basic Steps (workflow-basic-steps): latest
+Docker Pipeline (docker-workflow): latest
+Pipeline: Stage Tags Metadata (pipeline-stage-tags-metadata): latest
+Pipeline: Declarative Agent API (pipeline-model-declarative-agent): latest
+Pipeline: Declarative (pipeline-model-definition): latest
+Lockable Resources plugin (lockable-resources): latest
+Pipeline (workflow-aggregator): latest
+GitHub API Plugin (github-api): latest
+Git plugin (git): latest
+GitHub plugin (github): latest
+GitHub Branch Source Plugin (github-branch-source): latest
+Pipeline: GitHub Groovy Libraries (pipeline-github-lib): latest
+SSH Slaves plugin (ssh-slaves): latest
+Matrix Authorization Strategy Plugin (matrix-auth): latest
+PAM Authentication plugin (pam-auth): latest
+LDAP Plugin (ldap): latest
